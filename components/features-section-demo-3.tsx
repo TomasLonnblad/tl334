@@ -227,7 +227,7 @@ export const SkeletonTwo = () => {
 export const SkeletonFour = () => {
   return (
     <div className="relative mt-10 flex h-60 flex-col items-center bg-transparent md:h-60 dark:bg-transparent">
-      <Globe className="absolute -right-10 -bottom-80 md:-right-10 md:-bottom-72" />
+
     </div>
   );
 };
